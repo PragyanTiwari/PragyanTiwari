@@ -16,7 +16,7 @@
 
 ## 🔗 Connect with me at:
 <p align="center">
-  <a href="www.linkedin.com/in/pragyantiwari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 8px"></a>
+  <a href="https://www.linkedin.com/in/pragyantiwari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 8px"></a>
   <a href="https://github.com/PragyanTiwari" target="_blank"><img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoSize=auto&link=https%3A%2F%2Fgithub.com%2FPragyanTiwari" height="32" style="margin-right: 8px"></a>
   <a href="https://www.kaggle.com/pragyantiwari" target="_blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" height="32" style="margin-right: 8px"></a></p>
 

@@ -4,7 +4,6 @@
 
 ## A bit about me 🪽
 
-- ⚒️ Currently working on: **JSON Schema for dataset using Pydantic**
 - 🔎 Explore my all projects [**here**](https://datascienceportfol.io/pragyan099)
 - 💬 Ask me about: **Decision Trees, PCA, Statistics & Probability, LangChain, Supervised ML, Data Modeling, Data Validation**
 

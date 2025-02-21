@@ -1,6 +1,3 @@
-# 👋 Hi There, I'm Pragyan!
-
-**Aspiring data Scientist specializing in statistical modeling 📈, supervised ML 🤖, and GenAI Agentic frameworks 🧠. Passionate about solving real-world problems 🌍, contributing to innovative solutions 💡, and building data-driven strategies insights.**
 
 ## A bit about me 🪽
 

@@ -4,7 +4,7 @@
 
 
 <pre style="font-family:'Fira Code', Menlo, 'DejaVu Sans Mono', Consolas, 'Courier New', monospace">
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold;">📦 Projects</span>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold;"><b>📦 Projects</b></span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/PragyanTiwari/Matrix-Decomposition-Implementations" style="color: #1976d2; text-decoration: none;">🧮 Matrix-Decomposition-Implementations</a></span> - matrix decomposition algorithms for SVD, PCA applications etc.
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┗━━ </span><span style="font-weight: bold; color: #43a047;"><a href="https://github.com/PragyanTiwari/Matrix-Decomposition-Implementations/blob/master/notebooks/Gram_Schmidt_QR_Decomposition.py">gram-schmidt-qr-decomposition</a></span> - orthogonalization algorithm with QR
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃

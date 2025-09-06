@@ -1,6 +1,9 @@
 # 👋 Pragyan Tiwari's Portfolio
 
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&display=swap" rel="stylesheet">
+
+
+<pre style="font-family:'Fira Code', Menlo, 'DejaVu Sans Mono', Consolas, 'Courier New', monospace">
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold;">📦 Projects</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/PragyanTiwari/Matrix-Decomposition-Implementations" style="color: #1976d2; text-decoration: none;">🧮 Matrix-Decomposition-Implementations</a></span> - matrix decomposition algorithms for SVD, PCA applications etc.
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃

@@ -6,6 +6,7 @@
 <pre style="font-family:'Fira Code', Menlo, 'DejaVu Sans Mono', Consolas, 'Courier New', monospace">
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold;">📦 Projects</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/PragyanTiwari/Matrix-Decomposition-Implementations" style="color: #1976d2; text-decoration: none;">🧮 Matrix-Decomposition-Implementations</a></span> - matrix decomposition algorithms for SVD, PCA applications etc.
+<span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┗━━ </span><span style="font-weight: bold; color: #43a047;"><a href="https://github.com/PragyanTiwari/Matrix-Decomposition-Implementations/blob/master/notebooks/Gram_Schmidt_QR_Decomposition.py">gram-schmidt-qr-decomposition</a></span> - orthogonalization algorithm with QR
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/PragyanTiwari/Breast-cancer-prediction-with-DecisionTree" style="color: #1976d2; text-decoration: none;">🩺 Breast-cancer-prediction-with-DecisionTree</a></span> - wisconsin breast cancer classification
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┃
@@ -15,7 +16,7 @@
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┣━━ </span><a href="https://github.com/PragyanTiwari/Breast-cancer-prediction-with-DecisionTree/blob/master/notebooks/04-hyperparameter-tuning.ipynb">04-hyperparameter-tuning.ipynb</a> - model improvements
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┗━━ </span><a href="https://github.com/PragyanTiwari/Breast-cancer-prediction-with-DecisionTree/blob/master/notebooks/05-tree-model-explainability_SHAP.ipynb">05-model-interpretation</a> - tree model explanability using SHAP
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃
-<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="LangChain-GenAI-Data-Assistant" style="color: #1976d2; text-decoration: none;">🛠️ LangChain-GenAI-Data-Assistant</a></span> - GenAI-powered data assistant using LangChain
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="LangChain-GenAI-Data-Assistant" style="color: #1976d2; text-decoration: none;">🛠️ LangChain-GenAI-Data-Assistant</a></span> - GenAI-powered data assistant
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/PragyanTiwari/Hypothesis-Testing-Medical-Insurance-Data" style="color: #1976d2; text-decoration: none;">📊 Hypothesis-Testing-Medical-Insurance-Data</a></span> - statistical tests run on medical insurance dataset
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┃

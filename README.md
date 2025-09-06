@@ -39,13 +39,13 @@
 <span style="color: #808080; text-decoration-color: #808080">┃       ┣━━ </span><a href="https://github.com/PragyanTiwari/SpaceX-Falcon_9-Landing-Prediction-IBM-Capstone-/blob/main/05_EDA_Data_visualization.ipynb">eda-visualization</a> - dataviz
 <span style="color: #808080; text-decoration-color: #808080">┃       ┗━━ </span><a href="https://github.com/PragyanTiwari/SpaceX-Falcon_9-Landing-Prediction-IBM-Capstone-/blob/main/08_SpaceX_Predictive_Analytics.ipynb">predictive-analytics</a> - classification with base models       
 <span style="color: #808080; text-decoration-color: #808080">┃ 
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold;">🧪 Experiments & Learning</span>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold;"><b>🧪 Experiments & Learning</b></span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/PragyanTiwari/Refining-Spotify-Dataset-with-LLAMA3-70B" style="color: #1976d2; text-decoration: none;">🎵 Refining-Spotify-Dataset-with-LLAMA3-70B</a></span> - improving data quality with LLAMA3-70B
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┗━━ </span><a href="https://github.com/PragyanTiwari/Refining-Spotify-Dataset-with-LLAMA3-70B/blob/master/notebook.ipynb">notebook</a> - data refinement
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/PragyanTiwari/CPP-Tuts" style="color: #1976d2; text-decoration: none;">📚 CPP-Tuts</a></span> - C/C++ basic algorithms
 <span style="color: #808080; text-decoration-color: #808080">┃
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold;">🤝 Contributions</span>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold;"><b>🤝 Contributions</b></span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/virattt/ai-hedge-fund" style="color: #1976d2; text-decoration: none;">💼 ai-hedge-fund</a></span> - An AI Hedge Fund Team - <a href="https://github.com/virattt/ai-hedge-fund/commit/fd41093e332d7966bf6b723a048b9be4bc4a8894"> view changes </a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/googleads/google-ads-python" style="color: #1976d2; text-decoration: none;">🛠️ google-ads-python</a></span> - Google Ads API Client Library for Python - <a href="https://github.com/googleads/google-ads-python/commit/63f183eb6e50d6c76f524c0e2a3a1dcf7dad7b67"> view changes </a>

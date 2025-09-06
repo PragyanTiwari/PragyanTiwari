@@ -1,7 +1,7 @@
 # 👋 Pragyan Tiwari's Portfolio
 
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="background: #2563eb; color: white; border-radius: 6px; padding: 6px 16px; font-weight: bold;">📦 Projects</span>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold;">📦 Projects</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/PragyanTiwari/Matrix-Decomposition-Implementations" style="color: #1976d2; text-decoration: none;">🧮 Matrix-Decomposition-Implementations</a></span> - matrix decomposition algorithms for SVD, PCA applications etc.
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/PragyanTiwari/Breast-cancer-prediction-with-DecisionTree" style="color: #1976d2; text-decoration: none;">🩺 Breast-cancer-prediction-with-DecisionTree</a></span> - wisconsin breast cancer classification
@@ -21,28 +21,28 @@
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┗━━ </span><a href="https://github.com/PragyanTiwari/Hypothesis-Testing-Medical-Insurance-Data/blob/main/interaction_plots.ipynb">interaction_plots</a> - DOE Trials
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="Linear-Regression-with-outlier-detection" style="color: #1976d2; text-decoration: none;">📈 Linear-Regression-with-outlier-detection</a></span> - Linear regression analysis with outlier detection
-<span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┃
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┗━━ </span><a href="https://github.com/PragyanTiwari/Linear-Regression-with-outlier-detection/blob/main/galaxy_mass_prediction.ipynb">outlier-detection</a> - detecting using pdf, cdf, z-score
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/PragyanTiwari/Spotify-Exploratory-Data-Analysis" style="color: #1976d2; text-decoration: none;">🎶 Spotify-Exploratory-Data-Analysis</a></span> - Spotify music data analysis
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┗━━ </span><a href="https://github.com/PragyanTiwari/Spotify-Exploratory-Data-Analysis/blob/main/spotify-eda-data-transformation.ipynb">spotify-eda</a> - EDA visualization notebook
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="SpaceX-Falcon_9-Landing-Prediction-IBM-Capstone-" style="color: #1976d2; text-decoration: none;">🚀 SpaceX-Falcon_9-Landing-Prediction-IBM-Capstone-</a></span> - IBM Capstone Project for Classification
+<span style="color: #808080; text-decoration-color: #808080">┃       ┃
 <span style="color: #808080; text-decoration-color: #808080">┃       ┣━━ </span><a href="https://github.com/PragyanTiwari/SpaceX-Falcon_9-Landing-Prediction-IBM-Capstone-/blob/main/00_SpaceX_Final_Presentation.pdf">project-working</a> - pdf
 <span style="color: #808080; text-decoration-color: #808080">┃       ┣━━ </span><a href="https://github.com/PragyanTiwari/SpaceX-Falcon_9-Landing-Prediction-IBM-Capstone-/blob/main/02_SpaceX_data_Web_scraping.ipynb">web-scraping</a> - data scraping from wikipedia
 <span style="color: #808080; text-decoration-color: #808080">┃       ┣━━ </span><a href="https://github.com/PragyanTiwari/SpaceX-Falcon_9-Landing-Prediction-IBM-Capstone-/blob/main/04_EDA_SQL_sqlite.ipynb">eda-sql</a> - querying data using SQL
 <span style="color: #808080; text-decoration-color: #808080">┃       ┣━━ </span><a href="https://github.com/PragyanTiwari/SpaceX-Falcon_9-Landing-Prediction-IBM-Capstone-/blob/main/05_EDA_Data_visualization.ipynb">eda-visualization</a> - dataviz
 <span style="color: #808080; text-decoration-color: #808080">┃       ┗━━ </span><a href="https://github.com/PragyanTiwari/SpaceX-Falcon_9-Landing-Prediction-IBM-Capstone-/blob/main/08_SpaceX_Predictive_Analytics.ipynb">predictive-analytics</a> - classification with base models       
 <span style="color: #808080; text-decoration-color: #808080">┃ 
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="background: #22c55e; color: white; border-radius: 6px; padding: 6px 16px; font-weight: bold;">🧪 Experiments & Learning</span>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold;">🧪 Experiments & Learning</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┃
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/PragyanTiwari/Refining-Spotify-Dataset-with-LLAMA3-70B" style="color: #1976d2; text-decoration: none;">🎵 Refining-Spotify-Dataset-with-LLAMA3-70B</a></span> - improving data quality with LLAMA3-70B
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┗━━ </span><a href="https://github.com/PragyanTiwari/Refining-Spotify-Dataset-with-LLAMA3-70B/blob/master/notebook.ipynb">notebook</a> - data refinement
-<span style="color: #808080; text-decoration-color: #808080">┃   ┃
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/PragyanTiwari/CPP-Tuts" style="color: #1976d2; text-decoration: none;">📚 CPP-Tuts</a></span> - C/C++ basic algorithms
 <span style="color: #808080; text-decoration-color: #808080">┃
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="background: #eab308; color: white; border-radius: 6px; padding: 6px 16px; font-weight: bold;">🤝 Contributions</span>
-<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/virattt/ai-hedge-fund" style="color: #1976d2; text-decoration: none;">💼 ai-hedge-fund</a></span> - An AI Hedge Fund Team - <a href="https://github.com/virattt/ai-hedge-fund/commit/fd41093e332d7966bf6b723a048b9be4bc4a8894"> view changes </a>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold;">🤝 Contributions</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/virattt/ai-hedge-fund" style="color: #1976d2; text-decoration: none;">💼 ai-hedge-fund</a></span> - An AI Hedge Fund Team - <a href="https://github.com/virattt/ai-hedge-fund/commit/fd41093e332d7966bf6b723a048b9be4bc4a8894"> view changes </a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/googleads/google-ads-python" style="color: #1976d2; text-decoration: none;">🛠️ google-ads-python</a></span> - Google Ads API Client Library for Python - <a href="https://github.com/googleads/google-ads-python/commit/63f183eb6e50d6c76f524c0e2a3a1dcf7dad7b67"> view changes </a>
 
 </pre>

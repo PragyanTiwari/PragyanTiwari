@@ -1,4 +1,4 @@
-# 👋 Pragyan Tiwari's Portfolio
+> _Must be looking for something here,_
 
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&display=swap" rel="stylesheet">
 
@@ -52,4 +52,3 @@
 
 ---
 
-> 🌟 <i>Explore the repos and notebooks above for code, experiments, and results!</i>
